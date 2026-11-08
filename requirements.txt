@@ -1,0 +1,6 @@
+# DecisionLab
+# Python 3.10+
+# Standard libraries only:
+# tkinter
+# sqlite3
+# pathlib
